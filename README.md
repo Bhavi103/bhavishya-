@@ -8,4 +8,4 @@ DML COMMANDS-(insert,select)-(https://github.com/Bhavi103/bhavishya-/blob/circle
 ## experiment 4
 DML COMMANDS -(update ,delete)- -(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%204.txt)
 ## experiment 5
-SELECT WITH VARIOUS CLAUSE -(where ,pattern matching)-
+SELECT WITH VARIOUS CLAUSE -(where ,pattern matching)-(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%205.txt)
