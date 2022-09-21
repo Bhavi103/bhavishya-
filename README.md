@@ -12,4 +12,4 @@ SELECT WITH VARIOUS CLAUSE -(where ,pattern matching)-(https://github.com/Bhavi1
 ## experiment 6
 SELECT WITH VARIOUS CLAUSE -(between,in,aggregate function)-(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%206.txt)
 ## experiment 7
-SELECT WITH VARIOUS CLAUSE -(group by,having ,order by)-(
+SELECT WITH VARIOUS CLAUSE -(group by,having ,order by)-(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%207.txt)
