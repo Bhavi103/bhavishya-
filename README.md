@@ -1,4 +1,5 @@
 # DBMS_192110693
 ## experiment 1
 DDL COMMANDS-(create,alter,drop)-(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%201.txt)
-
+## experiment 2
+DDL COMMANDS WITH CONSTRAINTS-(primary,foreign key,unique,check)-(
