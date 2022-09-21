@@ -10,4 +10,6 @@ DML COMMANDS -(update ,delete)- -(https://github.com/Bhavi103/bhavishya-/blob/ci
 ## experiment 5
 SELECT WITH VARIOUS CLAUSE -(where ,pattern matching)-(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%205.txt)
 ## experiment 6
-SELECT WITH VARIOUS CLAUSE -(between,in,aggregate function)-(
+SELECT WITH VARIOUS CLAUSE -(between,in,aggregate function)-(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%206.txt)
+## experiment 7
+SELECT WITH VARIOUS CLAUSE -(group by,having ,order by)-(
