@@ -6,4 +6,4 @@ DDL COMMANDS WITH CONSTRAINTS-(primary,foreign key,unique,check)-(https://github
 ## experiment 3
 DML COMMANDS-(insert,select)-(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%203.txt)
 ## experiment 4
-SELECT with various clause - (where ,pattern matching)-(
+SELECT with various clause - (where ,pattern matching)-(https://github.com/Bhavi103/bhavishya-/blob/circleci-project-setup/dbms%20experiment%204.txt)
